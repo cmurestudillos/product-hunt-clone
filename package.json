@@ -1,0 +1,25 @@
+{
+  "name": "apphunt",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "dependencies": {
+    "@emotion/babel-preset-css-prop": "^10.0.27",
+    "@emotion/core": "^10.0.27",
+    "@emotion/react": "^11.1.5",
+    "@emotion/styled": "^10.0.27",
+    "babel-plugin-emotion": "^10.0.27",
+    "date-fns": "^2.9.0",
+    "firebase": "^7.6.1",
+    "firebase-admin": "^8.9.0",
+    "next": "9.1.7",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-firebase-file-uploader": "^2.4.3"
+  }
+}
