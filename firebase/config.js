@@ -1,11 +1,12 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyBvWC9GuVTIMyFY4lV8_eyx6nhPIy4fs6k",
-    authDomain: "app-hunt-96221.firebaseapp.com",
-    projectId: "app-hunt-96221",
-    storageBucket: "app-hunt-96221.appspot.com",
-    messagingSenderId: "312149261048",
-    appId: "1:312149261048:web:729b115b1c3e6ec4f7d90d",
-    measurementId: "G-K3XQ7VYJH5"
+    apiKey: "AIzaSyChH1i-q2DvK85gw4DGm9EfMOMHWqDMxG4",
+    authDomain: "producthuntcloneapp.firebaseapp.com",
+    databaseURL: "https://producthuntcloneapp-default-rtdb.firebaseio.com",
+    projectId: "producthuntcloneapp",
+    storageBucket: "producthuntcloneapp.appspot.com",
+    messagingSenderId: "993065867820",
+    appId: "1:993065867820:web:fc1c6642fe7d9d7f284f89",
+    measurementId: "G-EZEE0FS1W0"
 };
 
 export default firebaseConfig;
